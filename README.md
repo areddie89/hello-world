@@ -1,2 +1,5 @@
 # hello-world
-This is the short description of hello-world
+Hi GitHub community,
+
+Drizzle here, using coding tools to examine international cooperation
+
